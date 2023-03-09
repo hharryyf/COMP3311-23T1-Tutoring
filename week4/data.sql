@@ -62,5 +62,3 @@ insert into Catalog values (1, 4, 300);
 insert into Catalog values (2, 4, 300);
 insert into Catalog values (1, 5, 300);
 insert into Catalog values (2, 5, 300);
-
--- insert into Catalog values (7, 3, 199);
